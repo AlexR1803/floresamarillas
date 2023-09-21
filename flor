@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ramo de Flores Amarillas</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            background-color: #f4f4f4;
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        p {
+            font-size: 20px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/8019381-buque-com-flores-amarelas-embrulhado-em-papel-artesanal-composicao-florista-para-celebracao-feriado-vetor.jpg" alt="Ramo de Flores Amarillas">
+    <p>Estas flores son para ti, te quiero mucho :p</p>
+</body>
+</html>
